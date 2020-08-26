@@ -39,7 +39,7 @@ $ git clone https://github.com/felipejsborges/osworks.git
 $ cd osworks
 ```
 
-- Change IP on `src/main/resources/application.properties`:
+- Change MySQL local IP on `src/main/resources/application.properties`:
 ```bash
 spring.datasource.url=jdbc:mysql://<setYourIPHere>:3306/osworks?createDatabaseIfNotExist=True&serverTimezone=UTC
 ```
