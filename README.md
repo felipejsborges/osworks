@@ -22,7 +22,7 @@ An API of Order of Services. This was developed during the "Spring REST online C
 <hr>
 
 ### Features ✅<br>
-- [Click here](./.github/osworks-resources.json) to access the file that you can download and import to your API client (like Insomnia or Postman) and check all routes and methods that this API supports. To sum up, you can create, update, delete, list all or get users and orders of service information.
+- [Click here](https://drive.google.com/file/d/1DiE8YIS6nK3QmkAp98y6UIEnTBjLPrKz/view?usp=sharing) to access the file that you can download and import to your API client (like Insomnia or Postman) and check all routes and methods that this API supports. To sum up, you can create, update, delete, list all or get users and orders of service information.
 <hr>
 
 ### How to run this application? ▶️<br>
