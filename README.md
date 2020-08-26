@@ -26,8 +26,9 @@ An API of Order of Services. This was developed during the "Spring REST online C
 <hr>
 
 ### How to run this application? ▶️<br>
-You must have java installed. If you don't, [click here](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html) and follow the instructions. Then: <br>
-You also have to run MySQL (local or in a Docker container)<br>
+You must have java installed. If you don't, [click here](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html) and follow the instructions. <br>
+You also have to run MySQL (local or in a Docker container).<br>
+Now:<br>
 - Clone [this repo](https://github.com/felipejsborges/osworks)
 ```bash
 $ git clone https://github.com/felipejsborges/osworks.git
